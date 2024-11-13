@@ -19,7 +19,7 @@ This is a Julia code of applying RANSAC on [Toronto-3D DATASET](https://github.c
 
 ## Results
 The entire process and the results are as below.
-  1. read point cloud ply file with open3d
+  1. read point cloud ply file (L004.ply) with open3d
   2. run RANSAC for road detection
   3. visualize road inliers and other outliers
      <img width="955" alt="Screenshot 2024-11-13 at 9 15 34 pm" src="https://github.com/user-attachments/assets/6ffa66dc-2c1b-42c6-b68a-5d30d00ff021">
